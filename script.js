@@ -5,3 +5,4 @@ if(newVariable)console.log("test")
 
 
 var createdThirdvar = true
+var fourthVar=false
