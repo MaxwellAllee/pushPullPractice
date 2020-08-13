@@ -1,3 +1,4 @@
-var newVariable = 1
+var newVariable = 1;
+var jeffsVariable = 2;
 
-if(newVariable)console.log("test")
+if (newVariable) console.log("test");
